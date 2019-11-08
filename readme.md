@@ -28,3 +28,6 @@
 <!-- model generator -->
 ### rails g model [name(singular)] [attribute:type]
 #### after making a model,   rails db:migrate  <- is needed to update the db schema
+
+<!-- resource generator -->
+### rails g resource [Name] [attr:type]
