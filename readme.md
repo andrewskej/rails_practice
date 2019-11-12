@@ -31,3 +31,7 @@
 
 <!-- resource generator -->
 ### rails g resource [Name] [attr:type]
+
+<!-- get routes...so nice -->
+### rake routes
+### rake routes | grep [routename]
